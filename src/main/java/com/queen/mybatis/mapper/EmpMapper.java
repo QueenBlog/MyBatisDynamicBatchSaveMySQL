@@ -12,7 +12,7 @@ import com.queen.mybatis.bean.Emp;
 public interface EmpMapper {
 	
 	/**
-	 * 批量插入数据
+	 * 批量插入数据 自己修改
 	 * @param empList
 	 */
 	public void batchSave(List<Emp> empList);
